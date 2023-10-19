@@ -1,3 +1,3 @@
 # kgbasedvalidation
 
-https://github.com/collaborativebioinformatics/kgbasedvalidation/issues/1#issue-1952795336
+![WFTemp](https://github.com/collaborativebioinformatics/kgbasedvalidation/assets/71843044/f048b14d-ce45-4257-8618-4f156ff48005)
