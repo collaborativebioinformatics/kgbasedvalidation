@@ -3,9 +3,9 @@
 ![WFTemp](https://github.com/collaborativebioinformatics/kgbasedvalidation/assets/71843044/f048b14d-ce45-4257-8618-4f156ff48005)
 
 # Introduction
-Our software is for validating the knowlege graph and its relationship between each node. 
-Our architecture extracts node to node relationship from open source models for computational validation.
-The large language model we used is Vicuna. 
+Our software is designed for the validation of knowledge graphs and the relationships between each node.
+Our architecture extracts node-to-node relationships from open-source models for computational validation. 
+The large language model we utilized is called Vicuna.
  
 
 # What is <this software>?
