@@ -13,6 +13,9 @@ def GetABS(db, query, resultNum):
     subprocess.run(["./ed.sh " + f"\"{db}\" \"{query}\" {resultNum}"], shell=True)
 
 
+def LinkLLM(llmDir):
+
+
 
 
 
@@ -21,4 +24,5 @@ if __name__ == '__main__':
     db = sys.argv[1]
     queryString = sys.argv[2]
     GetABS(db, queryString, 500)
-
+    llmDir = "./vicuna_model7b/"
+    LinkLLM(llmDir)
