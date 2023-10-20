@@ -14,7 +14,7 @@ def GetABS(db, query, resultNum):
 
 
 def LinkLLM(llmDir):
-
+    return
 
 
 
@@ -23,6 +23,6 @@ if __name__ == '__main__':
     print(f"Searching pubmed for query : {sys.argv[1]}")
     db = sys.argv[1]
     queryString = sys.argv[2]
-    GetABS(db, queryString, 500)
+    GetABS(db, queryString, sys.argv[3])
     llmDir = "./vicuna_model7b/"
     LinkLLM(llmDir)
