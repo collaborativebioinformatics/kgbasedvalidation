@@ -1,0 +1,115 @@
+Create a knowledge graph of rs113993960 using the following abstracts: 
+1. Eur Respir J. 2020 Sep 10;56(3):2000558. doi: 10.1183/13993003.00558-2020.
+Print  2020 Sep.
+
+Morbidity and mortality in carriers of the cystic fibrosis mutation CFTR 
+Phe508del in the general population.
+
+Çolak Y(1)(2)(3), Nordestgaard BG(1)(2)(3), Afzal S(1)(2)(3).
+
+Author information:
+(1)Dept of Clinical Biochemistry, Herlev and Gentofte Hospital, Copenhagen 
+University Hospital, Herlev, Denmark.
+(2)The Copenhagen General Population Study, Herlev and Gentofte Hospital, 
+Copenhagen University Hospital, Herlev, Denmark.
+(3)Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, 
+Denmark.
+
+Comment in
+    Eur Respir J. 2020 Sep 10;56(3):
+
+Cystic fibrosis (CF) is caused by autosomal-recessive inheritance of a 
+dysfunctional cystic fibrosis transmembrane conductance regulator (CFTR), up to 
+90% due to Phe508del mutation in the CFTR gene. We tested the hypothesis that 
+CFTR Phe508del carriers have increased morbidity and mortality versus 
+non-carriers in the general population.We genotyped 108 035 randomly selected 
+white Danish individuals from the Copenhagen General Population Study (aged from 
+20-100 years) for CFTR Phe508del mutation (rs113993960). Risk of chronic 
+bronchitis and airflow limitation was assessed cross-sectionally. Overall 
+survival and risk of bronchiectasis, lung cancer, pneumonia, chronic 
+rhinosinusitis, airway bleeding, spontaneous pneumothorax, respiratory failure, 
+acute and chronic pancreatitis, liver cirrhosis, ileus, gastric and colorectal 
+cancer, and male infertility were assessed prospectively during up to 15 years 
+of follow-up (median: 9 years). A single individual was excluded due to 
+homozygosity for CFTR Phe508del and known CF. No other individuals had diagnosed 
+CF at baseline examination or during follow-up.Among the resulting 108 034 
+individuals, 105 176 (97%) were non-carriers and 2858 (3%) were carriers (i.e. 
+were heterozygous for CFTR Phe508del). Overall survival was similar between 
+carriers and non-carriers. Compared to non-carriers and with multivariable 
+adjustment, carriers had an odds ratio (OR) of 1.31 (95% CI 1.16-1.48) for 
+chronic bronchitis, a hazard ratio (HR) of 1.88 (95% CI 1.03-3.45) for 
+bronchiectasis and 1.52 (95% CI 1.12-2.08) for lung cancer. Carriers did not 
+differ from non-carriers concerning lung function or any other morbidity 
+outcomes as mentioned above.In the general population, carriers of CFTR 
+Phe508del have a normal lifespan but an increased risk of chronic bronchitis 
+(1.3-fold), bronchiectasis (1.9-fold) and lung cancer (1.5-fold).
+
+Copyright ©ERS 2020.
+
+DOI: 10.1183/13993003.00558-2020
+PMID: 32398304 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: B.G. Nordestgaard has 
+nothing to disclose. Conflict of interest: S. Afzal has nothing to disclose. 
+Conflict of interest: Y. Çolak reports personal fees from Boehringer Ingelheim, 
+AstraZeneca and Sanofi Genzyme, outside the submitted work.
+
+
+2. Pharmgenomics Pers Med. 2020 Dec 1;13:679-686. doi: 10.2147/PGPM.S278806. 
+eCollection 2020.
+
+Cystic Fibrosis Polymorphic Variants in a Russian Population.
+
+Kiseleva A(#)(1), Klimushina M(#)(1), Sotnikova E(#)(1), Skirko O(1), Divashuk 
+M(1)(2), Kurilova O(1), Ershova A(1), Khlebus E(1), Zharikova A(1)(3)(4), 
+Efimova I(1), Pokrovskaya M(1), Slominsky PA(5), Shalnova S(1), Meshkov A(#)(1), 
+Drapkina O(#)(1).
+
+Author information:
+(1)Federal State Institution «National Medical Research Center for Therapy and 
+Preventive Medicine» of the Ministry of Healthcare of the Russian Federation, 
+Moscow, 101000, Russia.
+(2)Kurchatov Genomics Center-ARRIAB, All-Russia Research Institute of 
+Agricultural Biotechnology, Moscow 127550, Russia.
+(3)Faculty of Bioengineering and Bioinformatics, Lomonosov Moscow State 
+University, Moscow 119991, Russia.
+(4)Institute for Information Transmission Problems, Russian Academy of Sciences, 
+Moscow 127051, Russia.
+(5)Institute of Molecular Genetics, Russian Academy of Sciences, Moscow 123182, 
+Russia.
+(#)Contributed equally
+
+PURPOSE: Cystic fibrosis (CF) is one of the most common monogenic diseases with 
+an autosomal recessive inheritance. Carrier screening leads to a reduction in 
+the number of children born with CF disease. The aim of this study was to 
+develop the custom panel for the diagnosis of heterozygous carriage of 
+polymorphic variants in the CFTR gene and to establish their allelic frequencies 
+(AF) in one of the Russian regions where ethnic Russians predominate.
+PATIENTS AND METHODS: The diagnostic panel was designed on the basis of data 
+from the register of CF patients in Russia for 2017 and validated on 22 blood 
+samples of patients with previously genetically established CF. The study 
+participants (n=642) for CF variants estimation were randomly selected from the 
+population-based cohort study ESSE-Vologda. Genotypes were determined by 
+real-time PCR on the QuantStudio 12K Flex Real-Time PCR System. Data processing 
+was performed using the TaqMan Genotyper Software.
+RESULTS: The proposed diagnostic panel allowed simultaneous analysis of 60 
+variants of the CFTR gene. A total of 23 carriers of the following variants were 
+identified among 642 participants: F508del (rs113993960) with a frequency of 
+2.02%, L138ins (rs397508686) and 394delTT (rs121908769) - 0.47%, CFTRdele2.3 
+(c.54-5940_273+10250del21080; p.S18Rfs*16) - 0.31%, R117H (rs78655421), and 
+G542X (rs113993959) - 0.16%. The frequency of heterozygotes in the Russian 
+population was 3.58% or 1:28 (CI95%: 2.28-5.33% by Clopper-Pearson exact 
+method).
+CONCLUSION: High frequency of heterozygous CFTR variants carriers and 
+availability of highly productive diagnostic panel for detection of CFTR 
+variants suggest the prospect of carrier screening for some common CF variants 
+among Russian population.
+
+© 2020 Kiseleva et al.
+
+DOI: 10.2147/PGPM.S278806
+PMCID: PMC7894124
+PMID: 33623413
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
