@@ -6,6 +6,7 @@
 Our software is designed for the validation of knowledge graphs and the relationships between each node.
 Our architecture extracts node-to-node relationships from open-source models for computational validation. 
 The large language model we utilized is called Vicuna.
+![New](https://github.com/collaborativebioinformatics/kgbasedvalidation/assets/71843044/92ad26a0-e253-4a1d-92ad-65ac8670237c)
  
 
 # What is <this software>?
