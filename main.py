@@ -14,6 +14,7 @@ def GetABS(db, query, resultNum):
 
 
 def LinkLLM(llmDir):
+    subprocess.run(["./vicuna_model7b/llama.cpp/main -m ./vicuna_model7b/llama.cpp/models/vicuna-7b-v1.5.Q4_K_M.gguf -f ./results.txt > kg.txt"], shell = True)
     return
 
 
