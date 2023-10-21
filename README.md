@@ -7,7 +7,7 @@ Our architecture extracts node-to-node relationships from open-source models for
 The large language model we utilized is called Vicuna.
 ![New](https://github.com/collaborativebioinformatics/kgbasedvalidation/assets/71843044/92ad26a0-e253-4a1d-92ad-65ac8670237c)
  
-#Obtaining Query Data
+# Obtaining Query Data
 Query data was obtained both from pubmed using edirect in conjunction with DisGeNET, where snp variant data was downloaded as tsv and used to
 create triplicate data in subject predicate subject form. The csv of the SPO objects can be found in SPO.csv. The DisGeNET SPO table can be found 
 below and the literature used for prompting the LLM can be found in prompt.txt. 
@@ -43,6 +43,13 @@ Table of SNPs Evaluated
 |rs121909211|Stromal Dystrophies, Corneal|
 |rs121909211|Avellino corneal dystrophy|
 
+
+# Data compression
+As an optional step we attempted to compress the abstracts into summaries to decrease the context window. We found that when the context was pushed past
+its recommended context window size it failed to write out accurate SPO objects. Therefore using GPT3.5 or 4 to summarize key abstracts could be 
+instrumental in reconstructing knowledge graph SPO objects.
+
+# 
 # What is <this software>?
 
 
