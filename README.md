@@ -5,7 +5,7 @@
 Our software is designed for the validation of knowledge graphs and the relationships between each node.
 Our architecture extracts node-to-node relationships from open-source models for computational validation. 
 The large language model we utilized is called Vicuna.
-![New](https://github.com/collaborativebioinformatics/kgbasedvalidation/assets/71843044/92ad26a0-e253-4a1d-92ad-65ac8670237c)
+![New(1)](https://github.com/collaborativebioinformatics/kgbasedvalidation/assets/71843044/92ad26a0-e253-4a1d-92ad-65ac8670237c)
  
 # Obtaining Query Data
 Query data was obtained both from pubmed using edirect in conjunction with DisGeNET, where snp variant data was downloaded as tsv and used to
@@ -84,8 +84,8 @@ Table of RDF Evaluations of LLMs
 
 
 
-
-#Token Size
+ 
+# Token Size
 
 It should be noted that the reason why we might need to use a summarizer module to decrease the context window size is that abstracts require too many
 especially given that ideally we would like to feed our large language model both the subjects that we are generating the KG for as well as the 
