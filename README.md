@@ -56,6 +56,8 @@ Asking a LLM to write out relationships as an RDF file typically fails across mo
 can write out triplicate form SPO's. Below is table of models and their ability to write out different SPO's given the following prompts.
 
 Prompt1: “User: Create subject predicate subject logic triplets using some motor vehicles and output it as a subject predicate subject logic triplet. An example subject predicate subject triplet could be Biliary Atresia - results in - biliary obstruction. Create 10 of these triplets. "
+
+
 Prompt2: "User: Create subject predicate subject logic triplets using some genes and their disease associations and output it as a subject predicate subject logic triplet. An example subject predicate subject triplet could be Biliary Atresia - results in - biliary obstruction. Create 10 of these triplets.”
 
 Prompt3: Found in prompt.txt
@@ -80,16 +82,26 @@ Table of RDF Evaluations of LLMs
 |GPT| 2 | Yes|
 |GPT| 3 | N/A|
 
-# 
-# What is <this software>?
 
+
+
+#Token Size
+
+It should be noted that the reason why we might need to use a summarizer module to decrease the context window size is that abstracts require too many
+especially given that ideally we would like to feed our large language model both the subjects that we are generating the KG for as well as the 
+literature. This is demonstrable from two different results using a larger and smaller context size. In one, it produces gibbberish, and in the other 
+it reliably produces SPO objects. 
+
+
+# What does this pipeline require
 
 #Dependencies
-
-
 Entrez-Direct
+ncbiutils.edirect
 
 
 
-#Vicuna_Model7B
+
+
+#Github one line install source.
 git clone https://github.com/fredi-python/llama.cpp.git && cd llama.cpp && make -j && cd models && wget -c https://huggingface.co/TheBloke/vicuna-7B-v1.5-GGUF/resolve/main/vicuna-7b-v1.5.Q4_K_M.gguf
