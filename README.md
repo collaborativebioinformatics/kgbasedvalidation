@@ -5,7 +5,7 @@
 Our software is designed for the validation of knowledge graphs and the relationships between each node.
 Our architecture extracts node-to-node relationships from open-source models for computational validation. 
 The large language model we utilized is called Vicuna.
-![New(1)](https://github.com/collaborativebioinformatics/kgbasedvalidation/assets/71843044/92ad26a0-e253-4a1d-92ad-65ac8670237c)
+![New (1)](https://github.com/collaborativebioinformatics/kgbasedvalidation/assets/71843044/31a2cce0-d0d6-4d9f-a319-4c6ebf0bac01)
  
 # Obtaining Query Data
 Query data was obtained both from pubmed using edirect in conjunction with DisGeNET, where snp variant data was downloaded as tsv and used to
