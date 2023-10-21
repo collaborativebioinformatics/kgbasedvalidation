@@ -49,6 +49,37 @@ As an optional step we attempted to compress the abstracts into summaries to dec
 its recommended context window size it failed to write out accurate SPO objects. Therefore using GPT3.5 or 4 to summarize key abstracts could be 
 instrumental in reconstructing knowledge graph SPO objects.
 
+
+# Prompt Engineering
+
+Asking a LLM to write out relationships as an RDF file typically fails across most models. We found that almost all models, with simple examples,
+can write out triplicate form SPO's. Below is table of models and their ability to write out different SPO's given the following prompts.
+
+Prompt1: “User: Create subject predicate subject logic triplets using some motor vehicles and output it as a subject predicate subject logic triplet. An example subject predicate subject triplet could be Biliary Atresia - results in - biliary obstruction. Create 10 of these triplets. "
+Prompt2: "User: Create subject predicate subject logic triplets using some genes and their disease associations and output it as a subject predicate subject logic triplet. An example subject predicate subject triplet could be Biliary Atresia - results in - biliary obstruction. Create 10 of these triplets.”
+
+Prompt3: Found in prompt.txt
+
+Table of RDF Evaluations of LLMs
+
+|LLM|Prompt Type| Can write out SPO |
+|-------|--------|----------|
+|Vicuna-7b| 1 | Yes |
+|Vicuna-7b| 2 | Yes |
+|Vicuna-7b| 3 | N/A |
+|Vicuna-13b| 1 | Yes |
+|Vicuna-13b| 2 | Yes |
+|Vicuna-13b| 3 | N/A |
+|llama2-7b| 1 | Yes |
+|llama2-7b| 2 | No |
+|llama2-7b| 3 | N/A |
+|codellama2-7b| 1 | No |
+|codellama2-7b| 2 | No |
+|codellama2-7b| 3 | N/A |
+|GPT| 1 | Yes|
+|GPT| 2 | Yes|
+|GPT| 3 | N/A|
+
 # 
 # What is <this software>?
 
