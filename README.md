@@ -1,5 +1,5 @@
 # kgbasedvalidation
-
+https://docs.google.com/presentation/d/1kpBzQXeyEREhfHOOFRhzpUXGdjx_p6CtCMv_QPADPHU/edit?usp=sharing
 
 # Introduction
 Our software is designed for the validation of knowledge graphs and the relationships between each node.
